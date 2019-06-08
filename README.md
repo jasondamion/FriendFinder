@@ -1,4 +1,4 @@
-                                                                    # Friend Finder
+# Friend Finder
 Want to find a friend who gets you? Who understands what its like to be you? Click [here](https://friend-finder900.herokuapp.com/) to find that special someone.
 
 ## How it works?
